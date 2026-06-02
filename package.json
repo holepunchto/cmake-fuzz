@@ -1,6 +1,6 @@
 {
   "name": "cmake-fuzz",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Fuzz testing utilities for CMake",
   "files": [
     "*.cmake"
